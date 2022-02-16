@@ -46,6 +46,32 @@ BOM
 | |C1, C2|100nF SMD 0805|2|1759143 (F)|
 | |X1, X2|JST-XH 8 Way|2|1516284 (F)|
 | |X3|34 Pin IDC Female|1| |
+|**Megadrive**| | | | |
+| |U1, U2|74HC157|2|1750394 (F)|
+| |C1, C2|100nF|2|2112751 (F)|
+| |X1, X2|JST-XH 8 Way|2|1516284 (F)|
+| |X3|34 Pin IDC Female|1| |
+|**SNES**| | | | |
+| |U1, U2, U3, U4|CD4021|4|3120814 (F)|
+| |U5|CD4071|1|3006431 (F)|
+| |U6|CD4077|1|3006434 (F)|
+| |C1, C2, C3, C4, C5, C6|100nF SMD 0805|6|1759143 (F)|
+| |D1, D2|IN4148 Diode|2|9565124 (F)|
+| |S1|Switch|1|2435095 (F)|
+| |X1, X2|JST-XH 5 Way|2|1516281 (F)|
+| |X3|34 Pin IDC Female|1| |
+|**Playstation**| | | | |
+| |U1, U2|ATMega328|2|1972087 (F)|
+| |U3|75LVC07ADR|1|9592660 (F)|
+| |C1, C2, C3|100nF SMD 0805|3|1759143 (F)|
+| |C4, C5, C6, C7|22pF SMD 0805|1759195 (F)|
+| |R1|10K SMD 0805|1|2073607 (F)|
+| |Z1,Z2|16MHz Crystal|2|1611761 (F)|
+| |X1, X2|JST-XH 8 Way|2|1516284 (F)|
+| |X3|34 Pin IDC Female|1| |
+| |S1|Switch|1|1201430 (F)|
+| |S2|Button|1| |
+
 
 
 
