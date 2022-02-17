@@ -113,7 +113,7 @@ Most components are sourced from either Farnell (F) or Mouser (M), suitable cont
 | |F1,F2|Fuse|2|581-F0805B0R25FSTR (M)|
 | |X1, X2|USB-A|2|1097897 (F)|
 | |X3|34 Pin IDC Female|1| |
-|**Megadrive6**| | | | |
+|**Megadrive 6**| | | | |
 | |IC1, IC4|XC9536XL|2|2831292 (F)|
 | |IC2, IC3, IC6|74HC125D|3|1201318 (F)|
 | |IC5|3V3 LDO Regulator|1|3257431 (F)|
