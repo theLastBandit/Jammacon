@@ -1,2 +1,5 @@
 # Jammacon
-Set of console to Jamma adapters
+
+Set of adapters to simplify connecting a home console to any Jamma compatible cabinet.
+
+![Boards](./images/jammacon.jpg)
