@@ -1,5 +1,6 @@
-BOM
+# BOM
 
+Most components are sourced from either Farnell (F) or Mouser (M), suitable controller cables can be got on Ebay or Aliexpress.
 |Board|Ref Des|Part Description|Quantity|Part Number|
 |---|---|---|---|---|
 |**JammaCon**| | | | |
@@ -135,6 +136,11 @@ BOM
 | |SW1|Switch|1|1201430 (F)|
 | |X1, X2|JST-XH 5 Way|2|1516281 (F)|
 | |X3|34 Pin IDC Female|1| |
+|**Cables**| | | | |
+| | |JST-XH 5 Way| |1516268 (F)|
+| | |JST-XH 8 Way| |1516271 (F)|
+| | |JST-XH 10 Way| |1516273 (F)|
+| | |JST-XH Crimp| |1516301 (F)|
 
 
 
