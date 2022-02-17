@@ -49,7 +49,7 @@ BOM
 |**Megadrive**| | | | |
 | |U1, U2|74HC157|2|1750394 (F)|
 | |C1, C2|100nF|2|2112751 (F)|
-| |X1, X2|JST-XH 8 Way|2|1516284 (F)|
+| |X1, X2|JST-XH 10 Way|2|1516286 (F)|
 | |X3|34 Pin IDC Female|1| |
 |**SNES**| | | | |
 | |U1, U2, U3, U4|CD4021|4|3120814 (F)|
@@ -93,6 +93,19 @@ BOM
 | |F1,F2|Fuse|2|581-F0805B0R25FSTR (M)|
 | |X1, X2|USB-A|2|1097897 (F)|
 | |X3|34 Pin IDC Female|1| |
+|**Megadrive6**| | | | |
+| |IC1, IC4|XC9536XL|2|2831292 (F)|
+| |IC2, IC3, IC6|74HC125D|3|1201318 (F)|
+| |IC5|3V3 LDO Regulator|1|3257431 (F)|
+| |QG1, QG2|10 MHz Oscillator|2|2854358 (F)|
+| |C1, C3|4.7uF|2|2409055 (F)|
+| |C2, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13|100nF SMD 0805|11|1759143 (F)|
+| |R1|300R SMD 0805|1|2073728 (F)|
+| |LED1|Red LED|1|2099236 (F)|
+| |SW1|Switch|1|1201430 (F)|
+| |X1, X2|JST-XH 10 Way|2|1516286 (F)|
+
+
 
 
 
